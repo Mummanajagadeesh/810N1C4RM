@@ -1,1 +1,52 @@
-# 810N1C_4RM
+# Summer 2024
+
+- [x]  STAC MAY
+- [x]  NASA OS101
+- [ ]  MACHINE LEARNING SPEC
+- [ ]  ROBOAI BOOTCAMP …  SOLIDWORKS EASYEDA
+- [ ]  ESP COURSE … DIGITAL ELEC
+
+- [x]  GITHUB PROFILE UPDATE
+- [ ]  LINKEDIN PROFILE UPDATE (NEW) …
+
+- [ ]  SCALER CPP ✔️
+- [ ]  VLSI ECELL INT
+- [ ]  SQL
+- [ ]  GEN AI NANODEGREE
+- [ ]  ESP32 | ESPX
+- [ ]  BOLT IOT
+- [ ]  ROS CODE FOUNDATION CONSTRUCT EXAM ✔️
+- [ ]  REV OF PY AND SH FOR ROS CONSTRUCT
+- [ ]  MATLAB AND SIM FUNDAMENTALS
+- [ ]  REV OF MATLAB ONRAMP AND SIM ONRAMP
+
+- PYLIB FOR ML
+    - [ ]  TF
+    - [ ]  NUMPY
+    - [ ]  MATPLOTLIB
+    - [ ]  SEABORN
+    - [ ]  SCIPY
+    - [ ]  PANDAS
+
+- CS50
+    - [ ]  CS50P ✔️
+    - [ ]  CS50X
+    - [ ]  CS50AI
+
+- BOOTCAMPS
+    - [ ]  PYTHON BOOTCAMP ✔️
+    - [ ]  OPENCV BOOTCAMP
+    - [ ]  TF BOOTCAMP
+
+- [ ]  DATACAMP TF COURSE
+
+- [ ]  PCB DESIGN WITH ALTIUM DESIGNER
+- [ ]  IBM SKILLS BOOST INT AI ML
+
+- [ ]  BCI P
+- [ ]  SH1R0 P …
+- [ ]  BIONIC ARM P …
+- [ ]  DRONE P
+
+- [x]  PAN CARD
+- [ ]  BANK ACC# 810N1C_4RM
