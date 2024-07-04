@@ -19,7 +19,7 @@ The 810N1C4RM (Bionic Arm) is an advanced type of prosthetic that integrates wit
 - Integration of machine learning models and algorithms. [00]
 
 ## Contributions
-Contributions to improve the PR057H371C-4RM are welcome. Please submit pull requests with detailed descriptions of changes.
+Contributions to improve the 810N1C4RM are welcome. Please submit pull requests with detailed descriptions of changes.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
