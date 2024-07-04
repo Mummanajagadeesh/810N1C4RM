@@ -1,5 +1,8 @@
 # 810N1C4RM
 
+[🔗UpsideDownLabs](https://upsidedownlabs.tech/)
+[🔗OpenBCI](https://openbci.com/)
+
 ## Overview
 
 The 810N1C4RM (Bionic Arm) is an advanced type of prosthetic that integrates with the user's nervous system to allow for more natural and intuitive control of the limb.
